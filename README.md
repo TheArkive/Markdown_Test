@@ -52,3 +52,6 @@ testing subscript:
 H~2~O
 
 
+***strong + emphesis***
+**strong**
+*emphesis*

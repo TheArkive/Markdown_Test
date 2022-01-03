@@ -36,3 +36,12 @@ next line
 ==Marked Text==
 
 blah
+
+~strike through~
+~~strike through~~
+
+~~~
+test
+~~~
+
+asdf

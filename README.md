@@ -16,3 +16,10 @@ multi
 line
 comment?
 -->
+
+Horizontal rules
+---
+===
+***
+
+// End HR //

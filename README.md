@@ -17,7 +17,7 @@ line
 comment?
 -->
 
-Horizontal rules
+Horizontal rules // comment?
 ---
 ======
 ***

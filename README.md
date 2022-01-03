@@ -9,3 +9,4 @@ Unordered List with mixed `+-*`
 * three
 * four
 
+<!-- comment? -->

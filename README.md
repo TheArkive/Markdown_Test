@@ -1,7 +1,7 @@
 # Markdown_Test
 Just testing github markdown
 
-Unordered List
+Unordered List with mixed +/-/*
 + one
 + two
 - two

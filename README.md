@@ -10,3 +10,9 @@ Unordered List with mixed `+-*`
 * four
 
 <!-- comment? -->
+
+<!--
+multi
+line
+comment?
+-->

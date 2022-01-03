@@ -37,7 +37,7 @@ next line
 
 blah
 
-~strike through~
+~strike through~\
 ~~strike through~~
 
 ~~~

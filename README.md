@@ -48,4 +48,7 @@ code?
 code?
 ```
 
-asdf
+testing subscript:
+H~2~O
+
+

@@ -24,3 +24,12 @@ Horizontal rules // comment?
 ___
 
 // End HR //
+
+Indented code
+
+  // some comments
+  line 1
+  line 2
+ 
+next line
+

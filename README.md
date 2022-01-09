@@ -25,6 +25,7 @@ See comments in GuiCtlExt.ahk for details.
 + updated README
 
 <br>
+
 ## Picture Button
 
 ### Gui.AddPicButton(sOptions:="", sPicFile:="", sPicFileOpt:="", Text:="")
@@ -54,6 +55,7 @@ This method does not return a value.
 Returns `"PicButton"`.
 
 <br> 
+
 ## SplitButton
 
 ### Gui.AddSplitButton(sOptions:="",sText:="",callback:="")

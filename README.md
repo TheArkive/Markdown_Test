@@ -52,7 +52,8 @@ If you change a Button Pic image, then the previous image handle is automaticall
 This method does not return a value.
 
 ### ctl.Type
-Returns `"PicButton"`.
+Returns `"PicButton"`.\
+ \
 
 
 

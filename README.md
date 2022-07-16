@@ -5,3 +5,7 @@ I mostly use this to see how i should develope my own markdown-to-HTML generator
 test\r\ntest
 
 test<br>test
+
+### --- Category
+
+#### --- Category

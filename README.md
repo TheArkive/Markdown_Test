@@ -9,5 +9,3 @@ test<br>test
 ### --- Category `code`
 
 #### --- Category
-
-testing 123

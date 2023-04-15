@@ -1,6 +1,68 @@
-# _Heading [test]_
+# _Heading \[test\]_
 
 ## Heading [test]
+
+Checklist:<br>
+- [x] check line
+- [ ] uncheck line
+
+```
+code \\ code
+```
+
+``double inline``
+
+test `\` test
+
+asdf\
+asdf\
+\
+asdf\
+\
+\
+asdf
+
+
+__
+asdf *
+*
+asdf ===
+===
+asdf ==
+==
+[asdf] =
+=
+asdf -
+-
+asdf
+---
+
+-
+
+--
+
+---
+
+=
+
+==
+
+*
+
+**
+
+***
+
+_
+
+__
+
+___
+
+
+*italic and **bold** text*
+
+**bold and *italic* text**
 
 This is just me messing around with markdown to see what GitHub will do with it.
 
@@ -31,8 +93,8 @@ test<br>test
    - asdf
    
 |  col1  |  COL2 |
-|--------|-------|
-| asdf   | * asdf|
+|-:|:-|
+| asdf asdfasdf asdf asdf  | * asdf asdf asdf asdf|
 
 THis is a reference test: [google]
 
